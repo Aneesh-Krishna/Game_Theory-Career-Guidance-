@@ -1,0 +1,14 @@
+# requirements.txt
+
+streamlit
+openai
+langchain
+faiss-cpu
+tavily-python
+plotly
+pandas
+networkx
+python-dotenv
+sqlite-utils
+langchain_openai
+langchain_community
