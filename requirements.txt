@@ -12,3 +12,4 @@ python-dotenv
 sqlite-utils
 langchain_openai
 langchain_community
+reportlab
